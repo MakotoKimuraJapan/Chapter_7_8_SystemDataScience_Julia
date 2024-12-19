@@ -1,4 +1,4 @@
-# Chapter7_8_SystemDataScience_Julia
+# Chapter_7_8_SystemDataScience_Julia
 The following is written in Japanese:
 #
 Microsoft Visual Studio CodeとJulia 1.10以上を利用した実行が可能。
