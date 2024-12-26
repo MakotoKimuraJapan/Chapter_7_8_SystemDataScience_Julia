@@ -16,3 +16,4 @@ NBM07 -> NortonBass_Optimized_7.ipynb
 NBM021 -> NortonBass_Optimized_21.ipynb
 
 表7.11 NBMのキャリブレーションと数値積分精度の比較
+![Chapter_7_Table_7_11](https://github.com/user-attachments/assets/fae28b07-01d4-4d0d-8819-d68cb3974766)
